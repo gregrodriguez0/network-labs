@@ -1,5 +1,3 @@
-# network-labs
-
 # 🧠 Networking Labs & Notes
 
 Welcome!  
