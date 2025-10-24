@@ -1,4 +1,4 @@
-# 🧠 Networking Labs & Notes
+# 🌐 Networking Labs & Notes
 
 Welcome!  
 This repository will track my journey in becoming a network engineer.
